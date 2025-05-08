@@ -1,4 +1,4 @@
-  
+ 
 ## Привет, меня зовут Даниил👋
 
 👨‍🎓 Я начинающий ручной тестировщик, здесь вы сможете увидеть мои наработки и мини-проекты.
@@ -9,5 +9,13 @@
 * 📢 Закончил курсы по ручному тестированию ПО
 * 🎒 Имею неплохую базу SQL
 * 💻 В данный момент нахожусь в поисках работы
+
+<br clear="both">
+
+<div align="center">
+<a href="https://t.me/ramz1ksf" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&labelColor=black" />
+  </a> 
+</div>
 
 P.S. Ниже будут примеры работ :)
