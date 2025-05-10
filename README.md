@@ -18,7 +18,18 @@
   </a> 
 </div>
 
-##
 
 ## My CV
 
+[CV](https://docs.google.com/document/d/1Axs0Wb0PsQOIPyRWzT5wFUQHiYBNIdewCV_weQLm-r8/edit?tab=t.0)
+
+## Портфолио 
+- Тестовая документация
+  -  [Чек-листы](https://ссылочку_сюда)
+  -  [Тест-кейсы](https://ссылочку_сюда)
+  -  [Mind maps](https://ссылочку_сюда)
+  -  [Баг-репорты](https://ссылочку_сюда)
+- Коллекция в Postman 
+  -  [Название проекта](https://ссылочку_сюда)
+- SQL запросы 
+  -  [Название проектв](https://ссылочку_сюда)
