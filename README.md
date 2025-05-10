@@ -25,7 +25,7 @@
 
 ## Портфолио 
 - Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
+  -  [Чек-листы](https://docs.google.com/spreadsheets/d/1R4CfP9SLC7MfkSooVgBdld2kVBRX7i1YRglliVdBeGo/edit?gid=0#gid=0)
   -  [Тест-кейсы](https://ссылочку_сюда)
   -  [Mind maps](https://ссылочку_сюда)
   -  [Баг-репорты](https://ссылочку_сюда)
