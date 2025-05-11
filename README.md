@@ -22,14 +22,8 @@
 ## My CV
 
 [CV](https://docs.google.com/document/d/1Axs0Wb0PsQOIPyRWzT5wFUQHiYBNIdewCV_weQLm-r8/edit?tab=t.0)
+<div align="center">
 
-## Портфолио 
-- Тестовая документация
-  -  [Чек-листы](https://docs.google.com/spreadsheets/d/1R4CfP9SLC7MfkSooVgBdld2kVBRX7i1YRglliVdBeGo/edit?gid=0#gid=0)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
-- SQL запросы 
-  -  [Название проектв](https://ссылочку_сюда)
+<b>[Портфолио](https://docs.google.com/spreadsheets/d/1R4CfP9SLC7MfkSooVgBdld2kVBRX7i1YRglliVdBeGo/edit?gid=0#gid=0) </b>
+
+</div>
