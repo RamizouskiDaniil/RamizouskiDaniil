@@ -24,6 +24,6 @@
 [CV](https://docs.google.com/document/d/1Axs0Wb0PsQOIPyRWzT5wFUQHiYBNIdewCV_weQLm-r8/edit?tab=t.0)
 <div align="center">
 
-<b>[Портфолио](https://docs.google.com/spreadsheets/d/1R4CfP9SLC7MfkSooVgBdld2kVBRX7i1YRglliVdBeGo/edit?gid=0#gid=0) </b>
+<b>[Портфолио](https://github.com/RamizouskiDaniil/portfolio) </b>
 
 </div>
