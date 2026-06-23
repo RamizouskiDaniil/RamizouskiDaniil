@@ -8,7 +8,7 @@ Current stack:
 - FastAPI
 - Git
 
-Goals for 2026:
+Goals for 2026/27:
 - Build 3 backend projects
 - Get my first Junior Python Developer job
 <br clear="both">
