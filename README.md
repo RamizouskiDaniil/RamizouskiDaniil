@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Daniil 👋
 
-<!--
-**RamizouskiDaniil/RamizouskiDaniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Python Backend Development.
 
-Here are some ideas to get you started:
+Current stack:
+- Python
+- PostgreSQL
+- FastAPI
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals for 2026:
+- Build 3 backend projects
+- Get my first Junior Python Developer job
+<br clear="both">
+
+<div align="center">
+<a href="https://t.me/ramz1ksf" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&labelColor=black" />
+  </a> 
+</div>
+
+</div>
